@@ -1,1 +1,1 @@
-ai feature 2 inline with feature2
+ai feature 2 merge conflict resolution
